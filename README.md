@@ -21,7 +21,6 @@ My Full Name is Iqbal Muhammad Adiatma
 
 # My Awesome Project 🚀
 
-![Project Logo](https://via.placeholder.com/150) <!-- Ganti dengan URL logo proyek jika ada -->
 
 ## 🌟 Introduction
 
@@ -38,7 +37,8 @@ Welcome to **My Awesome Project**! This project is a cutting-edge web applicatio
 ## 🚀 Technologies Used
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-- **Framework**: Bootstrap 5
+- **Backend**: PHP, Node.js
+- **Framework**: Bootstrap 5 & Tailwindcss
 - **Version Control**: Git & GitHub
 
 ## 📦 Installation
