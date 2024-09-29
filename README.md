@@ -41,12 +41,8 @@ Welcome to **My Awesome Project**! This project is a cutting-edge web applicatio
 - **Framework**: Bootstrap 5 & Tailwindcss
 - **Version Control**: Git & GitHub
 
-## 📦 Installation
 
-To get started with this project, clone the repository and install dependencies:
 
-```bash
-git clone https://github.com/username/my-awesome-project.git
-cd my-awesome-project
-npm install
+THX......
+By Iqbal Adiatma...
 
