@@ -13,10 +13,10 @@ My Full Name is Iqbal Muhammad Adiatma
 
 
 
-  Follow My Instagram : https://www.instagram.com/iq_html/
+  Follow My Instagram : <a href="https://www.instagram.com/iq_html/">Iqbal Adiatma</a>
 
   
-  Follow My Linkedin : https://www.linkedin.com/in/iqbaladiatma/
+  Follow My Linkedin : <a href="https://www.linkedin.com/in/iqbaladiatma/">Iqbal Adiatma</a>
 
 
 # My Awesome Project 🚀
@@ -37,8 +37,8 @@ Welcome to **My Awesome Project**! This project is a cutting-edge web applicatio
 ## 🚀 Technologies Used
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-- **Backend**: PHP, Node.js
-- **Framework**: Bootstrap 5 & Tailwindcss
+- **Backend**: PHP, Node.js,
+- **Framework**: Bootstrap 5 & Tailwindcss & Laravel 
 - **Version Control**: Git & GitHub
 
 
