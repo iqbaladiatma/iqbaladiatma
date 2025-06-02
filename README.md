@@ -126,7 +126,17 @@ class FintechEngineer {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbaladiatma&theme=tokyonight" alt="GitHub Streak"/>
   <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=iqbaladiatma&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaladiatma&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+---
+
+## 🏆 GitHub Profile Trophies
+
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=iqbaladiatma)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
