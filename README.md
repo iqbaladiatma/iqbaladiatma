@@ -136,8 +136,9 @@ class FintechEngineer {
 ## 🏆 GitHub Profile Trophies
 
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=iqbaladiatma)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=iqbaladiatma" alt="iqbaladiatma trophies" />
 </div>
+
 
 ---
 
