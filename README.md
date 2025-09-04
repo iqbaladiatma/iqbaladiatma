@@ -109,10 +109,3 @@ Jika tertarik kolaborasi, kirim pesan ke:
 
 > *“The best charity is that given when one is wealthy.”*
 > — Prophet Muhammad ﷺ (Bukhari)
-
----
-
-**Catatan:**
-
-* Ganti placeholder link (demo, repo, email) dengan link aktif.
-* Jika mau, saya bisa tambahkan: screenshot project, TOC, atau instruksi deploy singkat (Docker / Kubernetes).
