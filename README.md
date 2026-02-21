@@ -1,7 +1,7 @@
 # ✨ Assalamu’alaikum Warahmatullahi Wabarakatuh!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&center=true&width=700&lines=Full-Stack+Developer;Blockchain+Engineer;Fintech+Specialist;Qur'an+Hafizh" alt="Typing Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&center=true&width=700&lines=Laravel+12+Specialist;TALL+Stack+Enthusiast;Founder+@+Vetiver+Network;Fintech+Syariah+Developer;Qur'an+Hafizh" alt="Typing Header">
 </div>
 
 <p align="center">
@@ -15,97 +15,96 @@
 
 ---
 
-## 👋 Tentang Saya
+## 👋 About Me
 
-Saya **Iqbal Muhammad Adiatma** — Full-Stack Developer, Blockchain Engineer, dan spesialis Fintech. Menggabungkan keahlian teknis dengan prinsip etika dan kepatuhan Syariah untuk membangun solusi keuangan yang aman dan bertanggung jawab. Juga seorang **Qur'an Hafizh** — nilai integritas dan amanah saya bawa ke setiap proyek.
+I am **Iqbal Muhammad Adiatma**, a Full-Stack Developer currently in Grade 11 at **IDN Boarding School Solo**. I specialize in building high-performance web ecosystems using the **TALL Stack** and exploring the potential of **Blockchain** on the Solana network.
 
----
-
-## 🛠 Keahlian Inti
-
-* **Blockchain & Smart Contracts:** Solidity, Ethereum, Hyperledger
-* **Backend & Infra:** Node.js, Express, GraphQL, MongoDB, Kubernetes, Docker
-* **Fintech & Integrasi:** Payment gateways, SWIFT, compliance (PCI-DSS)
-* **DevOps & Messaging:** RabbitMQ, Redis, CI/CD pipelines
-* **Tools:** Truffle, Web3.js, Hardhat
+As a **Qur'an Hafizh**, I integrate the values of integrity, discipline, and Amanah into every project I lead and every line of code I write.
 
 ---
 
-## 🚀 Proyek Unggulan (ringkas)
+## 🛠 Tech Stack & Expertise
 
-### HalalChain — Islamic Finance Platform
-
-`Tech:` Solidity · React · IPFS
-
-* Smart contracts untuk distribusi zakat & pembiayaan syariah.
-* \[Demo / Repo — tambahkan link]
-
-### WaqfTracker — Blockchain Charity System
-
-* Transparansi donasi, audit real-time, integrasi NGO.
-* Juara 2023 Ethical Tech Awards.
-* \[Video / Repo — tambahkan link]
-
-### Payment Gateway Middleware
-
-`Stack:` Node.js · Redis · Kubernetes
-
-* Pengolahan transaksi skala besar (>\$1M), PCI-DSS compliant, SLA tinggi.
-* \[Repo / Case study — tambahkan link]
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Core** | **Laravel 12**, PHP, Node.js, Supabase |
+| **Frontend (TALL)** | **Tailwind CSS, Alpine.js, Laravel Livewire** |
+| **Mobile & Web** | **Flutter**, **Progressive Web Apps (PWA)**, Svelte |
+| **Blockchain** | Solana Network, Rust, $VETI Token Development |
+| **Tools & OS** | Git, Docker, Linux, Hardhat |
 
 ---
 
-## 📦 Contoh Snippet (Solidity)
+## 💼 Professional Experience
 
-```solidity
-// Minimal profile snippet
-pragma solidity ^0.8.0;
+### **Unsri Dev (Universitas Sriwijaya Developer)** | Remote
+**Laravel Full Stack Developer** | *Nov 2025 – Present*
+* **Engineered** high-performance web applications using the **TALL Stack** to deliver seamless, reactive user experiences.
+* **Developed and implemented PWA features**, ensuring offline capabilities and a native-like mobile experience.
+* **Architected** modular backend systems using **Laravel 12**, focusing on scalable database design and optimized API performance.
 
-contract Profile {
-    string public name = "Iqbal Muhammad Adiatma";
-    string public role = "Blockchain & Fintech Engineer";
+### **Abu Hurairah Islamic Boarding School** | Mataram
+**Full Stack Developer** | *Nov 2025 – Present*
+* **Digitized 15 core ISO 9001:2015 standard procedures** into a unified, modular platform for institutional governance.
+* **Built a scalable PWA solution** featuring modules for document control, internal audits, and real-time compliance tracking.
+
+### **PT Syariah Saham Indonesia** | Jakarta (Remote)
+**Full Stack Web Developer** | *Oct 2025 – Present*
+* **Developed "Hissa"**, a stock financial management panel with real-time web scraping for Sharia-compliant stock profiles.
+
+---
+
+## 🎓 Volunteer & Teaching (IDN Mengajar)
+
+* **SMK Muhammadiyyah Bobotsari:** Delivered "AI for Founders" workshops, empowering MSMEs to leverage Gen-AI for branding and automation.
+* **MSW Sabilil Mukminin:** Digitized institutional databases and taught "AI for Everyone" & Computational Thinking.
+* **SMP Pawyatan Daha 2:** Instructed students in building their first responsive websites using HTML5 and CSS3.
+* **SMP Al Ihsan Ungaran:** Led workshops on UI/UX (Figma), Web Security, and fundamental Web Development.
+
+---
+
+## 🚀 Key Projects
+
+* **$VETI (Vetiver Network):** Founder of a community-driven token ecosystem on the Solana Network.
+* **Kelontong Cerdas:** A modern Point of Sales (POS) system built with Laravel 12 for small business efficiency.
+* **Sistem Manajemen Halaqoh:** A Flutter-based app integrated with Quranic verses for student management.
+
+---
+
+## 📦 Tech Snippet (Reactive TALL Stack)
+
+```php
+// Laravel 12 + Livewire 3 Component
+namespace App\Livewire;
+
+use Livewire\Component;
+
+class ShariaTech extends Component
+{
+    public string $mission = "Digitizing Sharia Finance with Integrity";
+
+    public function render()
+    {
+        return view('livewire.sharia-tech');
+    }
 }
-```
 
----
-
-## 📚 Roadmap Singkat
-
-* Lanjutkan riset **Layer-2 & zk-proofs**
-* Integrasi **Sukuk tokenization** dan audit Syariah otomatis
-* Pengembangan **fraud detection** berbasis ML untuk transaksi fintech
-
----
-
-## 📬 Kontak & Kolaborasi
-
-Jika tertarik kolaborasi, kirim pesan ke:
-
-* Email: `iqbal@halaltech.dev`
-* Telegram: [@iqbaladiatma](https://t.me/iqbaladiatma)
-* LinkedIn: [iqbaladiatma](https://linkedin.com/in/iqbaladiatma)
-
----
-
-## 📈 GitHub Analytics
-
+📈 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbaladiatma&theme=tokyonight" alt="GitHub Streak"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=iqbaladiatma&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaladiatma&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbaladiatma&theme=tokyonight" alt="GitHub Streak"/>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=iqbaladiatma&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
----
+📬 Let's Collaborate!
+I am always open to discussing Web Development, Sharia Fintech, or Blockchain opportunities.
+Email: iqbal@halaltech.dev
+Telegram: @iqbaladiatma
+LinkedIn: iqbaladiatma
 
-## 🏆 GitHub Profile Trophies
+<p align="center">
+<i>"The best of people are those that bring most benefit to the rest of mankind."</i>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iqbaladiatma" alt="iqbaladiatma trophies" />
-</div>
-
----
-
-> *“The best charity is that given when one is wealthy.”*
-> — Prophet Muhammad ﷺ (Bukhari)
+<b>— Prophet Muhammad ﷺ</b>
+</p>
