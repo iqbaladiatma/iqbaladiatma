@@ -1,74 +1,240 @@
-# ✨ Assalamu’alaikum Warahmatullahi Wabarakatuh!
+# Assalamu'alaikum! I'm Iqbal 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&center=true&width=700&lines=Laravel+12+Specialist;TALL+Stack+%26+Svelte+Enthusiast;Founder+@+DECA+BLUE;Chief+Technology+Officer;Qur'an+Hafizh" alt="Typing Header">
-</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/iqbaladiatma" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://t.me/iqbaladiatma" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
+### Iqbal Muhammad Adiatma
+
+**Software Engineering Student · Builder · Researcher**
+
+Building technology at the intersection of **AI, financial data, software systems, and real-world problems.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-iqbaladiatma.my.id-black?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://www.iqbaladiatma.my.id/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iqbal%20Adiatma-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/iqbaladiatma/)
+[![HISSA](https://img.shields.io/badge/HISSA-Syariah%20Stock%20Platform-16A34A?style=for-the-badge)](https://hissa.syariahsaham.id/)
+
+</div>
 
 ---
 
 ## 👋 About Me
 
-I am **Iqbal Muhammad Adiatma**, a Full-Stack Developer and Blockchain Engineer currently in Grade 11 at **IDN Boarding School Solo**. I specialize in building high-performance web ecosystems using the **TALL Stack**, **SvelteKit**, and exploring decentralized solutions on the Solana network. I also study the intersection of Neuroscience and AI to optimize learning technologies.
+I'm **Iqbal Muhammad Adiatma**, a final-year **Software Engineering student at IDN Boarding School Solo, Indonesia**.
 
-As the Founder of the **DECA BLUE** development team and **Chief Technology Officer (CTO)** at PT Saham Indonesia, I integrate the values of integrity, discipline, and Amanah into every system architecture and line of code I write.
+I enjoy building systems that solve real problems, especially in areas involving:
 
----
+* Artificial Intelligence & Machine Learning
+* Financial Technology and Financial Data
+* Information Systems
+* Software Engineering
+* Data Automation
+* Human-centered technology
 
-## 🛠 Tech Stack & Expertise
+Currently, I serve as **CTO & Lead Programs at PT Syariah Saham Indonesia**, where I work on **HISSA**, a platform for Sharia-compliant stock screening, financial data analysis, and investment research in the Indonesian capital market.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend & Core** | **Laravel 12**, PHP, Node.js, Supabase, Python (Colab GPU) |
-| **Frontend Frameworks**| **Tailwind CSS, Alpine.js, Laravel Livewire, React.js, SvelteKit** |
-| **Mobile Development** | **Flutter (Native from Scratch)**, Progressive Web Apps (PWA) |
-| **Blockchain & Web3**  | Solana Network, Solidity, Rust, $VETI Token Development |
-| **Tools & OS**        | Git, Docker, Linux, Hardhat |
-
----
-
-## 💼 Professional Experience
-
-### **PT Syariah Saham Indonesia** | Jakarta (Remote)
-**Chief Technology Officer (CTO) & Full Stack Developer** | *Oct 2025 – Present*
-* **Architected & Engineered "Hissa"**, an investment screening and stock analytics dashboard powered by the **Fatamma technical analysis algorithm**.
-* Implemented automated data pipelines for real-time web scraping and profiles aggregation of Sharia-compliant stocks.
-
-### **Management Information System (MIS) Deployment** | Mataram
-**Full Stack Developer** | *Feb 2026 – Apr 2026*
-* **Digitized 15 core ISO 9001:2015 standard procedures** into a unified, modular Quality Management System (QMS) platform for institutional governance.
-* Built a scalable PWA solution featuring modules for document control, internal audits, and real-time compliance tracking.
-
-### **Unsri Dev (Universitas Sriwijaya Developer)** | Remote
-**Laravel Full Stack Developer** | *Nov 2025 – Present*
-* Developed reactive user experiences using the **TALL Stack** and integrated native-like PWA capabilities for offline functionality.
-* Designed modular backend systems focusing on scalable database performance and optimized APIs.
+Beyond software development, I'm also interested in research—particularly how AI-assisted systems can process complex financial information while still keeping humans involved in important decisions.
 
 ---
 
-## 🎓 Volunteer & Teaching (IDN Mengajar)
+## 🚀 What I'm Working On
 
-* **SMK Muhammadiyyah Bobotsari:** Delivered "AI for Founders" workshops, empowering MSMEs to leverage Gen-AI for branding.
-* **MSW Sabilil Mukminin:** Digitized institutional databases and taught "AI for Everyone" & Computational Thinking.
-* **SMP Pawyatan Daha 2:** Instructed students in building responsive websites using HTML5 and CSS3.
-* **SMP Al Ihsan Ungaran:** Led workshops on UI/UX (Figma), Web Security, and fundamental Web Development.
+### 📊 HISSA — Sharia Stock Analytics Platform
+
+**CTO & Lead Programs · PT Syariah Saham Indonesia**
+
+🔗 [hissa.syariahsaham.id](https://hissa.syariahsaham.id/)
+
+HISSA is a technology platform focused on **Indonesian Sharia-compliant stocks**, combining financial data, stock screening, analytics, and research tools.
+
+Some areas I've worked on include:
+
+* Financial-data aggregation pipelines
+* Sharia stock screening
+* Financial ratios and company fundamentals
+* Stock screener systems
+* Market-data visualization
+* Automated data processing
+* Machine-learning experiments for stock analysis
+* Internal analytics and decision-support systems
+
+**Core stack:** Laravel 12, PHP, Livewire, Filament, Vue/Inertia, MySQL, Tailwind CSS, Python
 
 ---
 
-## 🚀 Key Projects & Publications
+### 🏢 Management Information System
 
-* **Research Paper (JUTIF Submitted):** *Design of Human-in-the-Loop Semi-Automated Pipelines for Financial Data Aggregation in Restricted Web Environments* (May 2026).
-* **$VETI (Vetiver Network):** Founder of a community-driven token ecosystem built on the Solana Network.
-* **Relativitas Relasional (Medium Article):** An essay mapping Einstein's general relativity and field equations into modern social dynamics.
-* **Kelontong Cerdas:** A modern Point of Sales (POS) system built with Laravel 12 for small business efficiency.
-* **Sistem Manajemen Halaqoh:** A Flutter-based app integrated with Quranic tracking for student management.
+**Lead Developer & Project Manager**
+
+Built a Management Information System for an educational institution to digitize organizational workflows and support processes related to **ISO 9001:2015**.
+
+The system includes modules for areas such as:
+
+* Document management
+* Organizational workflows
+* Role-based access control
+* Data import/export
+* Multi-user administration
+* Institutional reporting
+
+**Stack:** Laravel, Inertia.js, Vue.js, Tailwind CSS, MySQL
 
 ---
+
+### ⛓️ Vetiver Network
+
+An experimental blockchain project built while exploring distributed systems and blockchain infrastructure using the **Cosmos SDK**.
+
+Areas explored:
+
+* Cosmos SDK
+* Validator infrastructure
+* Token economics
+* Blockchain nodes
+* Distributed systems
+
+---
+
+## 🔬 Research & Publications
+
+### 📄 Financial Data Aggregation
+
+**Design of Human-in-the-Loop Semi-Automated Pipelines for Financial Data Aggregation in Restricted Web Environments**
+
+Research focused on combining automation with human validation for financial-data collection in environments where fully automated extraction is difficult or unreliable.
+
+Published/accepted through **JUTIF — Jurnal Teknik Informatika**.
+
+---
+
+### 📄 AI-Assisted Software Development
+
+**AI-Orchestrated Development Methodology (Vibe Coding)**
+
+Research exploring how AI models can participate across software-development workflows while humans remain responsible for architectural decisions, validation, and final execution.
+
+---
+
+## 🎤 Teaching & Speaking
+
+I also enjoy explaining technology to people with different technical backgrounds.
+
+I've been involved in workshops and teaching activities covering topics such as:
+
+* Artificial Intelligence
+* AI for Programming / Vibe Coding
+* Web Development
+* HTML & CSS
+* PHP & JavaScript
+* UI/UX
+* Automation
+* Software Engineering
+
+Some of my teaching and speaking experiences have included programs and events involving schools, universities, and technology communities in Indonesia.
+
+For me, understanding technology is more important than simply knowing how to use the tools.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & Systems
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+### Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vue.js\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square\&logo=livewire\&logoColor=white)
+
+### Data & AI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square\&logo=googlecolab\&logoColor=white)
+
+Topics I'm currently exploring:
+
+`Machine Learning` · `XGBoost` · `Financial Data` · `AI Agents` · `LLM-assisted Development`
+
+### Infrastructure & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+
+---
+
+## 🌱 Currently Learning
+
+I'm currently deepening my understanding of:
+
+* Machine Learning for financial applications
+* Market microstructure and financial data
+* Information Systems
+* Quantitative methods
+* AI-assisted software engineering
+* Native Android development with Kotlin
+* Research methodology
+* Large-scale software architecture
+
+---
+
+## 🧠 Areas I'm Interested In
+
+```text
+Artificial Intelligence
+        ×
+Financial Technology
+        ×
+Information Systems
+        ×
+Software Engineering
+        ×
+Human Decision-Making
+```
+
+I'm particularly interested in one question:
+
+> **How can we build intelligent systems that are technically powerful, but still useful, understandable, and responsible for the humans who use them?**
+
+---
+
+## 📚 Beyond Code
+
+Technology is only one part of what I like learning about.
+
+I'm also interested in:
+
+* Sociology
+* Psychology
+* Philosophy
+* Human behavior
+* Education
+* Writing
+* Qur'anic studies
+
+I believe understanding technology also requires understanding the people and societies that use it.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to conversations about **research, software engineering, AI, financial technology, Information Systems, and collaborative projects**.
+
+🌐 **Portfolio:** [iqbaladiatma.my.id](https://www.iqbaladiatma.my.id/)
+💼 **LinkedIn:** [linkedin.com/in/iqbaladiatma](https://www.linkedin.com/in/iqbaladiatma/)
+💻 **GitHub:** [github.com/iqbaladiatma](https://github.com/iqbaladiatma)
+📊 **HISSA:** [hissa.syariahsaham.id](https://hissa.syariahsaham.id/)
+
+---
+
+<div align="center">
+
+### وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ
+
+*"My success is only by Allah." — Qur'an 11:88*
+
+</div>
